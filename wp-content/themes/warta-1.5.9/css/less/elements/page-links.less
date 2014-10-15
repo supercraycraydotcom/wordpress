@@ -1,0 +1,30 @@
+/*Paginate post navigation
+==========================*/
+.page-links {
+        a, > span {
+                background      : @lighter-bg;  
+                color           : @darker-text;
+                display         : inline-block; 
+                font-size       : 13px;
+                line-height     : 13px; 
+                margin-bottom   : 4px; 
+                padding         : 8px 10px;
+
+                &:hover { 
+                        background-color: @primary;
+                        color           : @light-text;
+                }
+        }
+
+        .dots, .dots:hover {
+                background      : @lighter-bg;  
+                color           : @darker-text;
+        }
+
+        > span {
+                &, &:hover {
+                        background  : @secondary; 
+                        color       : @light-text;
+                }                 
+        }
+}

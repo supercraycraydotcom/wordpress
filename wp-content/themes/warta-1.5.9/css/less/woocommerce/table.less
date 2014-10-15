@@ -1,0 +1,85 @@
+/* =Tables
+-------------------------------------------------------------- */
+
+article .woocommerce {
+        table {                
+                > thead,
+                > tbody,
+                > tfoot {
+                        > tr {
+                                > th,
+                                > td {
+                                        border-left     : none;
+                                        border-right    : none;
+                                        vertical-align  : middle;
+                                }
+                                
+                                > td.actions { background: none }
+                        }
+                }
+                > tfoot {
+                        > tr:first-child {
+                                > th,
+                                > td {
+                                        border-top: 2px solid #ddd;
+                                }
+                        }
+                }
+                
+        } 
+}
+
+
+table.shop_attributes {
+    border: 0;
+    border-top: 1px dotted rgba(0,0,0,0.1);
+    margin-bottom: 1.618em;
+    width: 100%;
+    th {
+        width: 150px;
+        font-weight:bold;
+        padding: 8px;
+        border-top: 0;
+        border-bottom: 1px dotted rgba(0,0,0,0.1);
+        margin: 0;
+        line-height: 1.5em;
+    }
+    td {
+        font-style: italic;
+        padding: 0;
+        border-top: 0;
+        border-bottom: 1px dotted rgba(0,0,0,0.1);
+        margin: 0;
+        line-height: 1.5em;
+        p {
+            margin: 0;
+            padding: 8px 0;
+        }
+    }
+    .alt td, .alt th {
+        background: rgba(0,0,0,0.025);
+    }
+}
+
+
+.my_account_orders {
+    font-size: 0.85em; 
+    
+    th, 
+    td                  { vertical-align: middle; }
+    
+    .order-actions      { text-align    : right; }
+}
+
+td.product-name {
+        dd,
+        p {  margin: 0 }
+        
+    p.backorder_notification {
+        font-size: 0.83em;
+    }
+}
+
+td.product-quantity {
+    min-width: 80px;
+}

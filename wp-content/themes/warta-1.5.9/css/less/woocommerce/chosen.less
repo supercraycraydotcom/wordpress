@@ -1,0 +1,27 @@
+/*Chosen*/
+.chosen-container-single {
+        .chosen-drop, 
+        .chosen-single {
+                .border-radius();
+        }
+        
+        .chosen-single {
+                border-color: @light-border;
+                background: none;
+                .box-shadow-none();
+                
+                &:hover { border-color: #aaa }
+        }
+        .chosen-drop {
+                .box-shadow(0, 1px, 1px);
+        }
+}
+.chosen-container-active.chosen-with-drop .chosen-single {
+        background: none;
+}
+.woocommerce-checkout .form-row .chosen-container-single .chosen-single {
+        height: 30px;
+}
+.chosen-container .chosen-results li.highlighted {
+        background: @primary;
+}

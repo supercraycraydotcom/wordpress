@@ -1,0 +1,99 @@
+/* =Product Loops
+	-------------------------------------------------------------- */
+
+	.products ul, ul.products {
+		margin: 0 0 1em;
+		padding: 0;
+		list-style:none outside;
+		clear:both;
+		.clearfix();
+		li {
+			list-style:none outside;
+		}
+	}
+
+	ul.products {
+		li.product {
+                .img {
+                        position: relative;
+                        
+                        .star-rating {
+                                color   : @primary;
+                                position: absolute;
+                                top     : 4px;
+                                left    : 4px;
+                        }
+                        
+                        .links {                                
+                                position        : absolute;
+                                bottom          : 0;
+                                
+                                a {
+                                        background-color: rgba(0, 0, 0, .8); 
+                                        color           : @light-text;
+                                        padding         : 4px 8px;
+                                        display         : block;
+                                        float           : left;
+                                        
+                                        &:hover         { background-color: fade(@primary, 80%); }
+                                        
+                                        .text           { display: none; }                                        
+                                        &:hover .text   { display: inline; }
+                                                                                
+                                        .fa-cog,
+                                        .fa-spin,
+                                        .fa-check,
+                                        &.added_to_cart { display: none }
+
+                                        &.product_type_variable {
+                                                .fa-shopping-cart { display: none; }
+                                                .fa-cog { display: inline-block }
+                                        }
+                                        
+                                        &.loading {
+                                                .fa-shopping-cart, .fa-cog { display: none; }
+                                                .fa-spin { display: inline-block }
+                                        }                                        
+                                        &[class$=added] {
+                                                .fa-shopping-cart, .fa-cog { display: none; }
+                                                .fa-check { display: inline-block }
+                                        }
+                                }
+                        }
+                        
+                        .star-rating, 
+                        .links {
+                                opacity : 0;
+                                .transition();
+                        }
+                        &:hover {
+                                .star-rating,
+                                .links { opacity: 1 }
+                        }
+                }
+                
+			.onsale {
+				top: 0;
+				right: 0;
+				left:auto;
+				margin: -6px -6px 0 0;
+			}
+			h5 { 
+                    margin: 8px 0; 
+            }			
+		}
+	}
+
+	.woocommerce-result-count {
+		margin: 0 0 1em;
+	}
+	.woocommerce-ordering {
+		margin: 0 0 1em;
+		select {
+			vertical-align: top;
+		}
+	}
+	nav.woocommerce-pagination, #content nav.woocommerce-pagination {
+                text-align      : center;
+                margin-bottom   : 45px;
+	}

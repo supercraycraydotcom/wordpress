@@ -1,0 +1,53 @@
+/* =Account Page
+-------------------------------------------------------------- */
+
+.addresses {
+    .title {
+            .clearfix();
+
+            h3 { float: left }
+
+            .edit { 
+                    float: right;
+                    &:before {
+                            font-family     : FontAwesome;
+                            content         : '\f040\00a0';
+                    }
+            }
+    }
+
+    p { margin-top: 0 }
+}
+
+ol.commentlist.notes {
+    li.note {
+
+        p.meta {
+            font-weight:bold;
+            margin-bottom: 0;
+        }
+        .description {
+            p:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+ul.digital-downloads {
+    li {
+        list-style:none;
+        
+        &:before {
+                font-family     : FontAwesome;
+                content         : "\f063\00a0";
+        }
+        
+        .count {
+            float: right;
+        }
+    }
+}
+
+
+
+.woocommerce-account .article-large.entry-content { overflow: inherit } 

@@ -1,0 +1,42 @@
+/* =Order Page
+-------------------------------------------------------------- */
+.order_details { 
+        list-style      : none;    
+        .clearfix();
+        
+        > h3 { margin-bottom: 15px }
+
+        li {
+                float               :left;
+                margin-right        : 2em;
+                text-transform      : uppercase;
+                font-size           : 0.715em;
+                line-height         : 1em;
+                border-right        : 1px dashed @light-border;
+                padding-right       : 2em;
+
+                strong {
+                        display         : block;
+                        font-size       : 1.4em;
+                        text-transform  : none;
+                        line-height     : 1.5em;
+                }
+
+                &:last-of-type {
+                        border: none;
+                }
+        }
+} 
+
+.order_details,
+.customer_details,
+.woocommerce-checkout .addresses address,
+.woocommerce-account .addresses address,
+ul.digital-downloads {        
+        border          : 4px solid @light-border;
+        padding         : 15px;
+        margin-bottom   : 15px;
+        
+        > :first-child { margin-top: 0 }
+        > :last-child { margin-bottom: 0 }
+}

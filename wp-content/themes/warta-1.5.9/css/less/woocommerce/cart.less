@@ -1,0 +1,133 @@
+/* =Cart
+-------------------------------------------------------------- */
+
+table.cart {        
+    .product-thumbnail {
+        min-width: 32px;
+    }
+    img {
+        width: 32px;
+    }
+    th, td {
+        vertical-align: middle;
+    }
+    a.remove {
+        display:block;
+        font-size:1.5em;
+        height:1em;
+        width:1em;
+        text-align: center;
+        line-height: 1;
+        color: red;
+        .border-radius(100%);
+    }
+    a.remove:hover {
+        background-color: red;
+        color: #fff;
+    }
+    td.actions .coupon {
+        margin: 0 -4px;
+        .input-text {
+            float:left;
+            &#coupon_code {
+                    margin: 0 4px;
+                    width: 100px;
+            }
+        }      
+    } 
+}
+
+
+/* =Cart Sidebar
+-------------------------------------------------------------- */
+.woocommerce {
+        ul.cart_list, ul.product_list_widget {
+                li img {
+                        float   : left;
+                        margin  : 0 15px 15px 0;
+                }
+        }
+}
+.cart_list, .product_list_widget {
+        list-style      : none;
+        padding         : 0;
+        
+        li {
+                border-bottom: 1px solid @light-border;
+                margin-bottom: 15px;
+                &:last-child { margin-bottom: 0 }
+                &:only-child { border-bottom: none }                
+            
+                a {
+                        color           : @headings-link-color;
+                        display         : block;
+                        font-size       : 15px;
+                        font-weight     : bold;
+                        margin-bottom   : 5px;
+                        &:hover { color: @primary }
+                }
+                
+                img {
+                        width   : 75px;
+                        height  :auto;
+                }
+                
+                
+                dt,
+                dd      { display       : inline-block; }
+                
+                dl      { margin-bottom : 5px; }                
+                
+                dd,
+                dl p    { margin        : 0 }
+                
+                .star-rating {
+                        float           : none;
+                        margin-bottom   : 15px;
+                }
+        }
+}
+
+.widget_shopping_cart {
+        .buttons .button:not(.checkout) {
+                .btn-default();
+        }
+}
+
+
+/* =Cart Page
+-------------------------------------------------------------- */
+
+.cart-collaterals {
+            h2 {
+                        margin          : 0;
+                        padding         : 8px 0; 
+                        text-align      : left;
+            }
+            
+        .shipping_calculator {
+                h2 a    { border: none }
+                
+                .shipping-calculator-button:after {
+                        content         : '\00a0\f103';
+                        font-family     : FontAwesome;
+                }
+        }
+    
+    .cart_totals {
+        
+        .discount td {
+            color: @highlight;
+        }
+        a.button.alt {
+            display: inline-block;
+        }
+    }
+    .cross-sells {
+        ul.products {
+            li.product {
+                margin-top: 0;
+            }
+        }
+    }
+}

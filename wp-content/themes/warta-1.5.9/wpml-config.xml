@@ -1,0 +1,44 @@
+<wpml-config>
+        <admin-texts>
+                <key name="friskamax_warta">
+                        <key name="footer_text" />
+                        <key name="singular_tag_text" />
+                        <key name="singular_share_text" />
+                        <key name="singular_author_info_title" />
+                        <key name="singular_related_title" />
+                        <key name="contact_page_marker" />
+                        <key name="contact_page_contact_info_title" />
+                        <key name="contact_page_contact_form_title" />
+                        <key name="contact_page_before_form" />
+                        <key name="review_box_title" />
+                        <key name="review_box_score_text" />
+                        <key name="review_box_user_rating_text" />
+                        <key name="review_box_user_rating_not_rated" />
+                        <key name="review_box_user_rating_after_vote" />
+                        <key name="review_box_user_rating_has_voted" />
+                </key>
+        </admin-texts>
+        
+        <custom-fields>
+                <custom-field action="copy">friskamax_review_titles</custom-field>
+                <custom-field action="copy">friskamax_review_scores</custom-field>
+                <custom-field action="copy">friskamax_review_total</custom-field>
+                <custom-field action="translate">friskamax_review_summary</custom-field>
+                <custom-field action="copy">friskamax_review_advanced</custom-field>
+                <custom-field action="translate">friskamax_review_title</custom-field>
+                <custom-field action="copy">friskamax_review_type</custom-field>
+                <custom-field action="copy">friskamax_review_position</custom-field>
+                <custom-field action="translate">friskamax_review_score_text</custom-field>
+                <custom-field action="copy">friskamax_review_enable_categories</custom-field>
+                <custom-field action="copy">friskamax_review_enable_user_rating</custom-field>
+                <custom-field action="copy">friskamax_page_title_bg</custom-field>
+                <custom-field action="copy">friskamax_page_title_op</custom-field>
+                <custom-field action="copy">friskamax_hide_featured_image_main</custom-field>
+                <custom-field action="copy">friskamax_hide_post_meta_main</custom-field>
+                <custom-field action="copy">friskamax_review_user_rating</custom-field>
+                <custom-field action="copy">friskamax_sidebar</custom-field>
+                <custom-field action="copy">warta_full_width_carousel_enable</custom-field>
+                <custom-field action="copy">warta_full_width_carousel_options</custom-field>
+                <custom-field action="copy">fsmpb_main</custom-field>
+        </custom-fields>
+</wpml-config>

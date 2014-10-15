@@ -1,0 +1,116 @@
+/*widgets
+========= */
+.widget_calendar table {        
+        border-collapse     : separate;
+        border-spacing      : 2px; 
+        width               : 100%;
+        line-height         : 30px;
+        
+        tbody a { 
+                background      : @primary;
+                color           : @light-text;
+                display         : block; 
+                margin          : -1px; 
+                &:hover { background: darken(@primary, 20%); }
+        }
+        
+        th, tbody td { text-align: center }    
+        
+        th, td, caption { 
+                border          : 1px solid @light-border; 
+                background      : @lighter-bg; 
+        }
+
+        caption { 
+                font-weight     : bold; 
+                margin          : 0 2px; 
+        }
+        
+        th,
+        tfoot a {
+                border          : none;
+                background      : @secondary;
+                color           : @light-text; 
+        }
+        
+        tfoot td, 
+        .pad{  
+                background      : none; 
+                border          : none;
+        }
+        
+        tfoot a { 
+                display: inline-block; 
+                padding: 0 10px;
+                &:hover { background: @primary }
+        }
+        
+        #next { text-align: right }
+}
+#footer-main .widget_calendar table {  
+        caption,
+        th, 
+        td,  
+        tfoot a { 
+                background      : none;
+                border-color    : @dark-border; 
+        }
+         
+        caption,
+        th,
+        tfoot a {
+                border          : none;
+                background      : @semi-dark-bg;
+                color           : @dark-text; 
+        }
+        
+        tbody a,
+        tfoot a { 
+                background      : @semi-dark-bg;
+                color           : @dark-text; 
+                
+                &:hover { 
+                        background      : @primary;
+                        color           : @light-text;
+                }
+        }
+}
+[dir=rtl] .widget_calendar table #next { text-align: left }
+
+.widget_recent_comments,
+.widget_recent_entries,
+.widget_rss {
+        li {
+                border-bottom   : 1px solid @light-border;
+                padding-bottom  : 15px;
+                margin-bottom   : 15px;                
+                &:last-child    { margin-bottom: 0; }
+        }
+}
+#footer-main {
+        .widget_recent_comments,
+        .widget_recent_entries,
+        .widget_rss {
+               li { 
+                        border-bottom   : none;                       
+                        padding-bottom  : 0;
+               } 
+        }
+}
+
+.widget_rss {
+        .widget-title img { display: none }
+        cite {
+                font-size: .8em;
+                &:before {
+                        content: '\2014 \00A0';
+                }
+        }
+                
+}
+
+.widget_text img{ 
+        max-width       : 100%;
+        height          : auto;
+        width           : auto; 
+}

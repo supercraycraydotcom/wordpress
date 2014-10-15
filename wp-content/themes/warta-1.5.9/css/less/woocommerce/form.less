@@ -1,0 +1,69 @@
+/* =Forms
+	-------------------------------------------------------------- */
+
+	form {
+		.form-row {
+			margin: 0 0 8px;
+            
+			label               { line-height   : 2em; }            
+			label.hidden        { visibility    : hidden; }
+			label.inline        { display       : inline; }
+            textarea            { height        : 100px; }
+			.required           { border        : 0; }            
+             
+            select,
+            textarea,
+            .input-text {
+                    margin: 0;
+            }
+            
+			.input-checkbox {
+				display: inline;
+				margin: -2px 8px 0 0;
+				text-align: center;
+				vertical-align: middle;
+			}
+			&.validate-required.woocommerce-invalid {
+				.chosen-single, .chosen-drop, input.input-text, select {
+					border-color: #fb7f88;
+				}
+			}
+		}
+	}
+
+	form.login, form.checkout_coupon, form.register {
+                border  : 4px solid @light-border;
+                padding : 15px 15px 7px;
+                margin  : 2em 0 2em 0px;
+                
+                p { margin: 0 0 8px 0 }
+                
+                label[for=rememberme] {
+                        margin-top      : 8px;
+                        display         : block;
+                        
+                        input[type=checkbox] {
+                                position: relative;
+                                top     : 2px;
+                                margin  : 0;
+                        }
+                }
+	}
+
+	ul#shipping_method {
+		list-style: none outside;
+		margin: 0;
+		padding: 0;
+		li {
+			margin: 0;
+			padding: .25em 0 .25em 22px;
+			text-indent: -22px;
+			list-style: none outside;
+		}
+		.amount {
+			font-weight: bold;
+		}
+	}
+	p.woocommerce-shipping-contents {
+		margin: 0;
+	}

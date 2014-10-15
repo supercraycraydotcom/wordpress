@@ -1,0 +1,43 @@
+.redux-container-checkbox input { float: none }
+.redux-container-spinner .spinner-wrpr  { direction: ltr }
+
+.redux_field_th,
+.redux-container-image_select ul.redux-image-select li { 
+        padding-right: 0;
+        padding-left: 10px;
+}
+
+.redux-main input.checkbox, .redux-main input.radio,
+.redux-container-switch .switch-options,
+.redux-main .redux-option-image {
+        margin-right: 0;
+        margin-left: 10px;
+}
+
+.redux-container-switch .switch-options,
+.redux-container-spinner .spinner-wrpr {
+        display: inline-block;
+}
+
+.select2-container .select2-choice abbr {
+        right: auto;
+        left: 8px;
+}
+.select2-container.select2-allowclear .select2-choice .select2-chosen { margin-right: 30px }
+
+/*Typography*/
+.redux-main .redux-typography-container .select_wrapper,
+.redux-main .redux-typography-container .typography-preview {
+        margin-right: 5px;
+}
+.redux-main .redux-typography-container .typography-size-bar {
+        clear: both;
+}
+.redux-main .redux-typography-container .select_wrapper,
+.input-append, .input-prepend {
+        float: right;
+}
+.input-append, .input-prepend,
+.redux-container-slider .redux-slider-container {
+        direction: ltr;
+}

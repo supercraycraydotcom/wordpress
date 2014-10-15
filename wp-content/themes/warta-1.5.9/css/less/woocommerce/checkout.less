@@ -1,0 +1,144 @@
+/* =Checkout
+-------------------------------------------------------------- */
+.checkout {
+        h3 {                
+                label { 
+                        cursor  : pointer;
+                        display : inline;
+                }
+        }
+        
+    .col-2 {
+        .notes {
+            clear:left;
+        }
+
+        .form-row-first {
+            clear:left;
+        }
+    }
+    .create-account small {
+        font-size: 11px;
+        color: @subtext;
+        line-height: 13px;
+        font-weight:normal;
+    }
+    div.shipping-address {
+        padding: 0;
+        clear:left;
+        width: 100%;
+    }
+    .shipping_address {
+        clear:both;
+    }
+}
+
+	/* Payment box - appears on checkout and page page */
+	#payment {
+            border      : 4px solid @light-border;
+            padding     : 15px 15px 7px;
+            
+		ul.payment_methods {
+			padding: 0;
+			list-style:none;
+			li {
+				line-height: 2em;
+                
+				input {
+					margin: 0 1em 0 0;
+				}
+				img {
+					vertical-align: middle;
+					margin: -2px 0 0 .5em;
+					position: relative;
+				}
+			}
+		}
+		div.payment_box {
+                background      : @lighter-bg;                
+                position        : relative;
+                padding         : 0.1px 8px;
+                margin-bottom   : 8px;
+
+			input.input-text, textarea {
+				border-color: darken( @secondary, 15 );
+				border-top-color: darken( @secondary, 20 );
+				.box_shadow( 0, 1px, 0, 0, rgba( 255,255,255,0.4 ) );
+			}
+			::-webkit-input-placeholder {
+				color: darken( @secondary, 20 );
+			}
+			:-moz-placeholder {
+				color: darken( @secondary, 20 );
+			}
+			:-ms-input-placeholder {
+				color: darken( @secondary, 20 );
+			}
+			.wc-credit-card-form-card-number,
+			.wc-credit-card-form-card-expiry,
+			.wc-credit-card-form-card-cvc {
+				font-size: 1.5em;
+				padding: 8px;
+				background-repeat: no-repeat;
+				background-position: right;
+
+				&.visa {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/visa.png);
+				}
+				&.mastercard {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/mastercard.png);
+				}
+				&.laser {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/laser.png);
+				}
+				&.dinersclub {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/diners.png);
+				}
+				&.maestro {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/maestro.png);
+				}
+				&.jcb {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/jcb.png);
+				}
+				&.amex {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/amex.png);
+				}
+				&.discover {
+					background-image: url(../../../plugins/woocommerce/assets/images/icons/credit-cards/discover.png);
+				}
+			}
+			span.help {
+				font-size: 11px;
+				color: @subtext;
+				line-height: 13px;
+				font-weight:normal;
+			}
+			.form-row {
+				margin: 0 0 1em;
+			}
+			p {
+				margin: 8px 0;
+			}
+			&:after {
+				content: "";
+				display:block;
+				border: 8px solid @lighter-bg; /* arrow size / color */
+				border-right-color: transparent;
+				border-left-color: transparent;
+				border-top-color: transparent;
+				position:absolute;
+				top: -3px;
+				left: 0;
+				margin: -1em 0 0 2em;
+			}
+		}
+	}
+    
+    
+    
+.woocommerce-checkout .entry-content .woocommerce {
+        > h2,
+        > header {
+                margin-top: 30px;
+        }
+}

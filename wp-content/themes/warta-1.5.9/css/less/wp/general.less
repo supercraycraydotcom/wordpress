@@ -1,0 +1,138 @@
+/*Screen Reader
+===============*/
+.screen-reader-text {
+        .sr-only();
+}
+
+
+/*Gallery Caption and comment author
+==================================== */
+.gallery-caption,
+.bypostauthor           { font-weight: normal; }
+
+/*Comment
+========= */
+.comment-respond {
+        margin: 45px 0;
+        .comment-reply-title { font-size: 18px; }
+}
+.post-comments {
+        .pingback, 
+        .trackback {
+                border-bottom   : 1px solid @light-border; 
+                margin          : 30px 0;
+                padding-bottom  : 30px;
+        }                
+}
+#comments.widget .page-links { margin-bottom: 15px }
+
+/*Edit Link
+=========== */
+.edit-link {
+        border-bottom   : 1px solid @light-border;
+        padding         : 10px 0;
+        margin-bottom   : 15px; 
+}
+
+/* SHORTCODES
+============= */
+.wp-video-shortcode,
+.wp-audio-shortcode                             { max-width     : 100% }
+.videopress-placeholder img                     { width         : auto }
+#blog-version-1 #main-content .featured-media   { width         : 717px; }
+.wp-playlist-caption                            { white-space   : normal!important; }
+
+/*table
+======= */
+article table:not(.table),
+.post-comments .comment table:not(.table) {
+        width: 100%;
+        margin-bottom: 20px;
+        
+        /* Cells*/
+        > thead,
+        > tbody,
+        > tfoot {
+                > tr {
+                        > th,
+                        > td {
+                                padding: 8px;
+                                line-height: 1.428571429em;
+                                vertical-align: top;
+                                border-top: 1px solid #ddd;
+                        }
+                }
+        }
+        /* Bottom align for column headings*/
+        > thead > tr > th {
+                vertical-align: bottom;
+                border-bottom: 2px solid #ddd;
+        }
+        /* Remove top border from thead by default*/
+        > caption + thead,
+        > colgroup + thead,
+        > thead:first-child {
+                > tr:first-child {
+                        > th,
+                        > td {
+                                border-top: 0;
+                        }
+                }
+        }
+        /* Account for multiple tbody instances*/
+        > tbody + tbody {
+                border-top: 2px solid #ddd;
+        }
+
+        /* Nesting*/
+        .table {
+                background-color: #fff;
+        }
+        
+        /* Zebra-striping*/
+        > tbody > tr:nth-child(odd) {
+                > td,
+                > th {
+                        background-color: #f9f9f9;
+                }
+        }
+        
+        /*Bordered version*/
+        border: 1px solid #ddd;
+        > thead,
+        > tbody,
+        > tfoot {
+                > tr {
+                        > th,
+                        > td {
+                                border: 1px solid #ddd;
+                        }
+                }
+        }
+        > thead > tr {
+                > th,
+                > td {
+                        border-bottom-width: 2px;
+                }
+        }
+}
+.post-comments .children>li>.comment-container .content .comment table:not(.table) {
+        /* Zebra-striping*/
+        > tbody > tr:nth-child(odd) {
+                > td,
+                > th {
+                        background-color: lighten(@primary, 8%);
+                }
+        }
+}
+
+/*BLOG VER 2
+============*/
+#blog-version-2 #main-content .row.aside :not(.headline) article .post-meta {
+        border  : none;
+        margin  : 0;
+        padding : 0;
+}
+
+/*Static page*/
+#blog-detail .page #main-content .entry-content { border-bottom: none }

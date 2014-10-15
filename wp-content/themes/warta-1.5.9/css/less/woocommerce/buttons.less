@@ -1,0 +1,65 @@
+/* =Buttons
+-------------------------------------------------------------- */
+
+.button, #respond input#submit {
+    .btn();
+    .btn-primary();  
+    padding : 5px 12px;
+    &:hover { color: @light-text }
+
+    &.loading {
+        color: lighten( @secondarytext, 10 );
+        border: 1px solid @secondary;
+
+        &:before {
+            content: "";
+            position:absolute;
+            top: 0;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            background: url(../../../plugins/woocommerce/assets/images/ajax-loader.gif) center no-repeat rgba(255,255,255,0.65);
+        }
+    }
+
+    &.added {
+        &:before {
+            position:absolute;
+            height: 16px;
+            width: 16px;
+            top: 0.35em;
+            right: -26px;
+            text-indent: 0;
+            font-family: 'WooCommerce';
+            content: "\e017";
+        }
+    }
+
+    &:active {
+        top: 1px;
+    }
+
+
+    &:disabled,
+    &.disabled {
+        opacity     : .5;
+        cursor      : not-allowed;
+    }
+}
+.entry-content, 
+.comment-container .comment {
+        .button { border: none }
+}
+
+.cart .button, .cart input.button {
+        &[name="update_cart"],
+        &[name="apply_coupon"] {
+                .btn-default();
+        }
+}
+
+a.added_to_cart {
+    padding-top: .5em;
+    white-space: nowrap;
+    display: inline-block;
+}

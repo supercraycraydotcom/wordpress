@@ -1,0 +1,3260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Warta - News/Magazine WordPress Theme\n"
+"POT-Creation-Date: 2014-08-01 11:52+0700\n"
+"PO-Revision-Date: 2014-08-01 11:52+0700\n"
+"Last-Translator: Friska Max <friskamax@gmail.com>\n"
+"Language-Team: Friska Max <friskamax@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "Sorry, the page you requested was not found."
+msgstr ""
+
+#: archive.php:28
+msgid "Category: "
+msgstr ""
+
+#: archive.php:31
+msgid "Tag: "
+msgstr ""
+
+#: archive.php:33
+msgid "Author: "
+msgstr ""
+
+#: archive.php:36
+msgid "Day: "
+msgstr ""
+
+#: archive.php:39
+msgid "Month: "
+msgstr ""
+
+#: archive.php:40
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:42
+msgid "Year: "
+msgstr ""
+
+#: archive.php:43
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:45
+msgid "Asides"
+msgstr ""
+
+#: archive.php:47
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:49
+msgid "Images"
+msgstr ""
+
+#: archive.php:51
+msgid "Videos"
+msgstr ""
+
+#: archive.php:53
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:55
+msgid "Links"
+msgstr ""
+
+#: archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:59
+msgid "Audios"
+msgstr ""
+
+#: archive.php:61
+msgid "Chats"
+msgstr ""
+
+#: archive.php:63
+msgid "Archives"
+msgstr ""
+
+#: comments.php:54 inc/admin/archive.php:67 inc/admin/archive.php:90
+#: inc/admin/singular.php:37 inc/admin/singular.php:62
+#: inc/admin/singular.php:157
+msgid "Comments"
+msgstr ""
+
+#: comments.php:58 comments.php:83
+msgctxt "Comment pages"
+msgid "Pages: "
+msgstr ""
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:102
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:107
+msgid "Your email address"
+msgstr ""
+
+#: comments.php:112 template-contact-page-full-width.php:70
+#: template-contact-page.php:64
+msgid "Your website"
+msgstr ""
+
+#: comments.php:116
+msgid "Your comment *"
+msgstr ""
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:29 content-single.php:72
+msgid "Pages:"
+msgstr ""
+
+#: deprecated/init.php:27
+msgid ""
+"Warning! Template homepage will be removed soon. Please use page builder "
+"instead."
+msgstr ""
+
+#: deprecated/init.php:38
+msgid "Top Section - Homepage"
+msgstr ""
+
+#: deprecated/init.php:39
+msgid "Appears above main section of homepage."
+msgstr ""
+
+#: deprecated/init.php:48
+msgid "Main Section - Homepage"
+msgstr ""
+
+#: deprecated/init.php:49
+msgid ""
+"Appears in the main section of homepage (below breaking news and carousel "
+"small if any)."
+msgstr ""
+
+#: deprecated/init.php:58
+msgid "Bottom Section - Homepage"
+msgstr ""
+
+#: deprecated/init.php:59
+msgid "Appears below main section and sidebar section of homepage."
+msgstr ""
+
+#: deprecated/init.php:69
+msgid "Sidebar Section - Homepage"
+msgstr ""
+
+#: deprecated/init.php:71
+msgid ""
+"Appears in the sidebar section (next to main section) of homepage. Replaces "
+"\"Sidebar Section - Default\"."
+msgstr ""
+
+#: deprecated/init.php:81
+msgid "Footer Section - Homepage"
+msgstr ""
+
+#: deprecated/init.php:86
+msgid ""
+"Appears in the footer section of homepage. Replaces \"Footer Section - "
+"Default\"."
+msgstr ""
+
+#: deprecated/options/carousel.php:26 inc/shortcodes/lang/lang.php:102
+msgid "Carousel"
+msgstr ""
+
+#: deprecated/options/carousel.php:27
+msgid "Carousel setting for Homepage"
+msgstr ""
+
+#: deprecated/options/carousel.php:35 deprecated/options/homepage.php:12
+msgid "WARNING"
+msgstr ""
+
+#: deprecated/options/carousel.php:36 deprecated/options/homepage.php:13
+msgid ""
+"Settings in this section will be removed soon. Please use page builder "
+"instead"
+msgstr ""
+
+#: deprecated/options/carousel.php:41
+msgid "Display Carousel"
+msgstr ""
+
+#: deprecated/options/carousel.php:48
+msgid "Data"
+msgstr ""
+
+#: deprecated/options/carousel.php:63 inc/admin/singular.php:35
+msgid "Categories"
+msgstr ""
+
+#: deprecated/options/carousel.php:72 inc/admin/archive.php:65
+#: inc/admin/singular.php:39
+msgid "Tags"
+msgstr ""
+
+#: deprecated/options/carousel.php:78
+msgid "Only last 100 posts that are displayed."
+msgstr ""
+
+#: deprecated/options/carousel.php:81
+msgid "Posts"
+msgstr ""
+
+#: deprecated/options/carousel.php:89
+msgid "Number of posts"
+msgstr ""
+
+#: deprecated/options/carousel.php:90
+msgid "How many posts do you want to display?"
+msgstr ""
+
+#: deprecated/options/carousel.php:100 inc/admin/archive.php:48
+msgid "Excerpt Length"
+msgstr ""
+
+#: deprecated/options/carousel.php:101 inc/admin/archive.php:49
+#: inc/widgets/articles.php:221 inc/widgets/posts-carousel.php:181
+#: inc/widgets/tabs.php:188
+msgid "How many characters do you want to show?"
+msgstr ""
+
+#: deprecated/options/carousel.php:111
+msgid "Interval"
+msgstr ""
+
+#: deprecated/options/carousel.php:112
+msgid ""
+"The amount of time to delay between automatically cycling an item (in "
+"seconds)"
+msgstr ""
+
+#: deprecated/options/carousel.php:122
+msgid "Animation"
+msgstr ""
+
+#: deprecated/options/carousel.php:123
+msgid "Caption animation"
+msgstr ""
+
+#: deprecated/options/carousel.php:135
+msgid "Animation Speed"
+msgstr ""
+
+#: deprecated/options/carousel.php:136
+msgid "The amount of time to animate the caption (in seconds)"
+msgstr ""
+
+#: deprecated/options/carousel.php:146 inc/admin/top-menu.php:43
+msgid "Hide on Mobile Devices"
+msgstr ""
+
+#: deprecated/options/carousel.php:147 inc/widgets/ads.php:171
+#: inc/widgets/gallery-carousel.php:106 inc/widgets/posts-carousel.php:233
+#: inc/widgets/slider-tabs.php:311
+msgid "Recommended for better performance."
+msgstr ""
+
+#: deprecated/options/homepage.php:4
+msgid "Homepage"
+msgstr ""
+
+#: deprecated/options/homepage.php:18
+msgid "Hompage Layout"
+msgstr ""
+
+#: deprecated/options/homepage.php:19
+msgid "Choose layout with full width carousel or small carousel."
+msgstr ""
+
+#: deprecated/options/homepage.php:36 inc/admin/archive.php:33
+#: inc/admin/singular.php:16 inc/admin/static-page.php:16
+msgid "Title Background"
+msgstr ""
+
+#: deprecated/options/homepage.php:37 inc/admin/general.php:25
+#: inc/admin/singular.php:17 inc/admin/static-page.php:17
+msgid ""
+"Recommended size 1920x150px for full width layout and 1260x150px for boxed "
+"layout."
+msgstr ""
+
+#: deprecated/options/homepage.php:46 inc/admin/archive.php:104
+#: inc/admin/singular.php:181
+msgid "Use Custom Widgets Area"
+msgstr ""
+
+#: deprecated/options/homepage.php:47
+msgid "Add new widgets area for Homepage to replace the default widgets area."
+msgstr ""
+
+#: deprecated/options/homepage.php:49 inc/admin/archive.php:107
+#: inc/admin/singular.php:184 inc/admin/static-page.php:27
+msgid "Sidebar Section"
+msgstr ""
+
+#: deprecated/options/homepage.php:50 inc/admin/archive.php:108
+#: inc/admin/singular.php:185 inc/admin/static-page.php:28
+msgid "Footer Section"
+msgstr ""
+
+#: deprecated/options/homepage.php:57 inc/admin/archive.php:115
+#: inc/admin/general.php:38 inc/admin/singular.php:192
+#: inc/admin/static-page.php:35
+msgid "Footer Layout"
+msgstr ""
+
+#: deprecated/options/homepage.php:58 inc/admin/archive.php:116
+#: inc/admin/general.php:39 inc/admin/singular.php:193
+#: inc/admin/static-page.php:36
+msgid "Choose between 4 or 6 columns layout."
+msgstr ""
+
+#: functions.php:52 inc/admin/top-menu.php:62
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:40 header.php:115
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:42 header.php:117 inc/admin/typography.php:97
+msgid "Menu"
+msgstr ""
+
+#: header.php:67 header.php:84 searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: header.php:69 header.php:76 searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: header.php:73 header.php:80
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: inc/admin/advanced.php:10
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/admin/advanced.php:15
+msgid "Tracking Code"
+msgstr ""
+
+#: inc/admin/advanced.php:16
+msgid "Paste your Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: inc/admin/advanced.php:26
+msgid "CSS Code"
+msgstr ""
+
+#: inc/admin/advanced.php:27
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/admin/advanced.php:36
+msgid "JS Code"
+msgstr ""
+
+#: inc/admin/advanced.php:37
+msgid "Paste your JS code here."
+msgstr ""
+
+#: inc/admin/advanced.php:46
+msgid "Use AJAX on post views counter"
+msgstr ""
+
+#: inc/admin/advanced.php:47
+msgid "Useful when using a cache plugin"
+msgstr ""
+
+#: inc/admin/appearance.php:10
+msgid "Appearance"
+msgstr ""
+
+#: inc/admin/appearance.php:15
+msgid "Boxed style"
+msgstr ""
+
+#: inc/admin/appearance.php:23
+msgid "Body Background"
+msgstr ""
+
+#: inc/admin/appearance.php:24
+msgid "Upload 1920x wide image."
+msgstr ""
+
+#: inc/admin/appearance.php:31
+msgid "Flat style"
+msgstr ""
+
+#: inc/admin/appearance.php:38
+msgid "Light on images"
+msgstr ""
+
+#: inc/admin/appearance.php:45
+msgid "Zoom effect"
+msgstr ""
+
+#: inc/admin/appearance.php:52
+msgid "Primary Color"
+msgstr ""
+
+#: inc/admin/appearance.php:61
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/admin/appearance.php:70
+msgid "Headings Link Color"
+msgstr ""
+
+#: inc/admin/appearance.php:79
+msgid "Body Link Color"
+msgstr ""
+
+#: inc/admin/archive.php:10
+msgid "Archive Page"
+msgstr ""
+
+#: inc/admin/archive.php:15
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/admin/archive.php:34
+msgid ""
+"Recommended size 1920x150px for full width layout and 1260x150px for boxed "
+"layout"
+msgstr ""
+
+#: inc/admin/archive.php:40 inc/admin/singular.php:23
+msgid "Date Format"
+msgstr ""
+
+#: inc/admin/archive.php:41 inc/admin/singular.php:24
+#: inc/admin/singular.php:172 inc/widgets/articles.php:232
+#: inc/widgets/slider-tabs.php:236 inc/widgets/tabs.php:205
+msgid ""
+"Click <a href=\"http://codex.wordpress.org/Formatting_Date_and_Time#Examples"
+"\" target=\"_blank\">here</a> to see some examples."
+msgstr ""
+
+#: inc/admin/archive.php:59 inc/admin/singular.php:31
+#: inc/admin/typography.php:148
+msgid "Post Meta"
+msgstr ""
+
+#: inc/admin/archive.php:61 inc/admin/singular.php:33
+#: inc/admin/singular.php:153 inc/widgets/articles.php:251
+#: inc/widgets/slider-tabs.php:256 inc/widgets/tabs.php:235
+msgid "Date"
+msgstr ""
+
+#: inc/admin/archive.php:62 inc/admin/singular.php:34
+#: inc/admin/singular.php:154 inc/widgets/articles.php:255
+#: inc/widgets/slider-tabs.php:261 inc/widgets/tabs.php:240
+msgid "Post format"
+msgstr ""
+
+#: inc/admin/archive.php:63 inc/widgets/articles.php:259
+#: inc/widgets/tabs.php:245
+msgid "First category"
+msgstr ""
+
+#: inc/admin/archive.php:64 inc/widgets/articles.php:263
+#: inc/widgets/tabs.php:250
+msgid "All categories"
+msgstr ""
+
+#: inc/admin/archive.php:66 inc/admin/archive.php:89 inc/admin/singular.php:36
+#: inc/admin/singular.php:61 inc/admin/singular.php:130
+#: inc/admin/singular.php:156 inc/widgets/articles.php:267
+#: inc/widgets/slider-tabs.php:271 inc/widgets/tabs.php:255
+msgid "Author"
+msgstr ""
+
+#: inc/admin/archive.php:68 inc/admin/singular.php:38
+#: inc/admin/singular.php:158
+msgid "Views"
+msgstr ""
+
+#: inc/admin/archive.php:69 inc/admin/singular.php:40
+#: inc/widgets/articles.php:279 inc/widgets/slider-tabs.php:286
+#: inc/widgets/tabs.php:270
+msgid "Review score"
+msgstr ""
+
+#: inc/admin/archive.php:87 inc/admin/singular.php:59
+#: inc/friskamax-helper/class-friskamax-helper.php:24
+msgid "Icons"
+msgstr ""
+
+#: inc/admin/archive.php:91 inc/admin/singular.php:63
+msgid "Post Format"
+msgstr ""
+
+#: inc/admin/archive.php:105
+msgid ""
+"Add new widgets area for Archive Page to replace the default widgets area."
+msgstr ""
+
+#: inc/admin/contact-page.php:10
+msgid "Contact Page"
+msgstr ""
+
+#: inc/admin/contact-page.php:15
+msgid "Receiver Email Address"
+msgstr ""
+
+#: inc/admin/contact-page.php:22
+msgid "Display Map"
+msgstr ""
+
+#: inc/admin/contact-page.php:28
+msgid "Latitude coordinate"
+msgstr ""
+
+#: inc/admin/contact-page.php:29 inc/admin/contact-page.php:39
+msgid "Format: Decimal degrees (DDD). Example: -6.1753500."
+msgstr ""
+
+#: inc/admin/contact-page.php:30
+msgid ""
+"You can find the tutorial in <a href=\"https://support.google.com/maps/"
+"answer/18539\" target=\"_blank\">Google Support: Latitude and longitude "
+"coordinates</a>. "
+msgstr ""
+
+#: inc/admin/contact-page.php:38
+msgid "Longitude  coordinate"
+msgstr ""
+
+#: inc/admin/contact-page.php:40
+msgid ""
+"You can find the tutorial in <a href=\"https://support.google.com/maps/"
+"answer/18539\" target=\"_blank\">Google Support: Latitude and longitude "
+"coordinates</a>."
+msgstr ""
+
+#: inc/admin/contact-page.php:48
+msgid "Marker Text"
+msgstr ""
+
+#: inc/admin/contact-page.php:55
+msgid "Contact Info Title"
+msgstr ""
+
+#: inc/admin/contact-page.php:57
+msgid "Contact Info"
+msgstr ""
+
+#: inc/admin/contact-page.php:62
+msgid "Contact Form Title"
+msgstr ""
+
+#: inc/admin/contact-page.php:64
+msgid "Get in touch"
+msgstr ""
+
+#: inc/admin/contact-page.php:69
+msgid "Text Before Contact Form"
+msgstr ""
+
+#: inc/admin/custom-validation.php:21
+msgid "You don't have the right to post HTML markup or JavaScript code"
+msgstr ""
+
+#: inc/admin/gallery-page.php:10
+msgid "Gallery Page"
+msgstr ""
+
+#: inc/admin/gallery-page.php:15
+msgid "Use default WordPress style"
+msgstr ""
+
+#: inc/admin/gallery-page.php:22
+msgid "Caption Length"
+msgstr ""
+
+#: inc/admin/gallery-page.php:23
+msgid "How many characters of the caption do you want to show?"
+msgstr ""
+
+#: inc/admin/general.php:10
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/general.php:16
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/general.php:17
+msgid "Recommended image height is 30-40px."
+msgstr ""
+
+#: inc/admin/general.php:24
+msgid "Default Title Background"
+msgstr ""
+
+#: inc/admin/general.php:32
+msgid "Favicon"
+msgstr ""
+
+#: inc/admin/general.php:56
+msgid "Footer Text"
+msgstr ""
+
+#: inc/admin/redux-config.php:65 inc/admin/redux-config.php:70
+msgid "Warta Theme Options"
+msgstr ""
+
+#: inc/admin/redux-config.php:176
+#, php-format
+msgid ""
+"Cannot write css file. %s must writable! Please change the permission to 644"
+msgstr ""
+
+#: inc/admin/redux-config.php:179
+#, php-format
+msgid ""
+"Cannot write css file. %s must writable! Please change the permission to 755"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:467
+#: inc/admin/redux-framework/ReduxCore/framework.php:1761
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:468
+#: inc/admin/redux-framework/ReduxCore/framework.php:1769
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:469
+#: inc/admin/redux-framework/ReduxCore/framework.php:1785
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:502
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:503
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:504
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:172
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:172
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:176
+#: inc/admin/redux-framework/ReduxCore/framework.php:180
+msgid "Options"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:1218
+#: inc/admin/redux-framework/ReduxCore/framework.php:1219
+#: inc/admin/redux-framework/ReduxCore/framework.php:3363
+#: inc/admin/redux-framework/ReduxCore/framework.php:3442
+msgid "System Info"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:1777
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:1792
+msgid "Please Wait"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:1938
+msgid "Hints"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:1939
+msgid "<p>"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:2063
+msgid "Default"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3115
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3189
+msgid "Expand"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3191
+#: inc/admin/redux-framework/ReduxCore/framework.php:3499
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3195
+#: inc/admin/redux-framework/ReduxCore/framework.php:3503
+msgid "Reset Section"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3197
+#: inc/admin/redux-framework/ReduxCore/framework.php:3505
+msgid "Reset All"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3202
+#: inc/admin/redux-framework/ReduxCore/framework.php:3510
+msgid "Working..."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3222
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3237
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3251
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3265
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3283
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3291
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/framework.php:3299
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/class.redux_functions.php:252
+msgid "Dismiss"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/debug.php:41
+#: inc/admin/redux-framework/ReduxCore/inc/debug.php:69
+#: inc/admin/redux-framework/ReduxCore/inc/debug.php:76
+#: inc/admin/redux-framework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:124
+#: inc/admin/redux-framework/ReduxCore/inc/fields/color/field_color.php:72
+#: inc/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: inc/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: inc/admin/redux-framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:277
+#: inc/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:314
+#: inc/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:154
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:188
+#: inc/extras/category.php:25 inc/meta-boxes/title-bg.php:123
+msgid "Upload"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:321
+#: inc/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:161
+#: inc/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:68
+#: inc/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: inc/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:190
+#: inc/extras/category.php:26 inc/meta-boxes/title-bg.php:124
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:114
+#: inc/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: inc/widgets/flickr-feed.php:89
+msgid "All"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:127
+#: inc/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+#: inc/admin/review-box.php:43 inc/meta-boxes/review.php:260
+msgid "Top"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:134
+#: inc/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:141
+#: inc/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+#: inc/admin/review-box.php:44 inc/meta-boxes/review.php:261
+msgid "Bottom"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:148
+#: inc/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Height"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: inc/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: inc/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: inc/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:82
+#: inc/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:126
+#: inc/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: inc/admin/review-box.php:15 inc/meta-boxes/review.php:243
+#: inc/shortcodes/lang/lang.php:30 inc/shortcodes/modal/accordion.php:14
+#: inc/shortcodes/modal/tabs.php:14
+msgid "Title"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:204
+#: inc/friskamax-page-builder/element-widget-area.php:76
+#: inc/meta-boxes/sidebar.php:55
+msgid "Description"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:283
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:298
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:335
+msgid "Font subsets"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:337
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Subsets"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Font script"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:355
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:356
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:357
+msgid "Text Align"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:378
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:379
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:380
+msgid "Text Transform"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:401
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:403
+msgid "Font Variant"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:421
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:422
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:423
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:445
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Font Size"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Size"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:454
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Line Height"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:463
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:464
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:472
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:473
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:491
+msgid "Font Color"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:493
+msgid "Font color"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:822
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:929
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:140
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:149
+#: inc/admin/redux-framework/ReduxCore/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:153
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:158
+msgid "Email address"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:158
+#: inc/widgets/feedburner.php:52
+msgid "Subscribe"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/tracking.php:167
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:292
+#: inc/friskamax-page-builder/element-widget-area.php:82
+#: inc/friskamax-page-builder/template/modal-insert-element.php:14
+#: inc/friskamax-page-builder/template/modal-insert-row-body.php:27
+#: inc/widgets/text-editor.php:30
+msgid "Close"
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: inc/admin/redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: inc/admin/redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: inc/admin/redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: inc/admin/redux-framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/admin/redux-framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:407
+msgid "Repo"
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:408
+msgid "Generator"
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:409
+msgid "Issues"
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:410
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: inc/admin/redux-framework/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: inc/admin/review-box.php:9 inc/meta-boxes/review.php:49
+msgid "Review Box"
+msgstr ""
+
+#: inc/admin/review-box.php:17 inc/template-tags/review-box.php:22
+msgid "Review Scores"
+msgstr ""
+
+#: inc/admin/review-box.php:22 inc/meta-boxes/review.php:274
+msgid "Enable score categories"
+msgstr ""
+
+#: inc/admin/review-box.php:29 inc/meta-boxes/review.php:247
+msgid "Score Type"
+msgstr ""
+
+#: inc/admin/review-box.php:31 inc/meta-boxes/review.php:250
+msgctxt "Review score type"
+msgid "Bar"
+msgstr ""
+
+#: inc/admin/review-box.php:32 inc/meta-boxes/review.php:251
+msgctxt "Review score type"
+msgid "Bar animated"
+msgstr ""
+
+#: inc/admin/review-box.php:33 inc/meta-boxes/review.php:252
+msgctxt "Review score type"
+msgid "Star"
+msgstr ""
+
+#: inc/admin/review-box.php:41 inc/meta-boxes/review.php:257
+msgid "Position"
+msgstr ""
+
+#: inc/admin/review-box.php:51 inc/meta-boxes/review.php:266
+msgid "Score Text"
+msgstr ""
+
+#: inc/admin/review-box.php:52
+msgid "Separated by commas, from 1 to 5."
+msgstr ""
+
+#: inc/admin/review-box.php:54 inc/template-tags/review-box.php:21
+msgid "Bad, Poor, Average, Good, Super"
+msgstr ""
+
+#: inc/admin/review-box.php:59 inc/meta-boxes/review.php:278
+msgid "Enable user rating"
+msgstr ""
+
+#: inc/admin/review-box.php:66
+msgid "User Rating Text"
+msgstr ""
+
+#: inc/admin/review-box.php:68
+#, php-format
+msgid "User Rating: %1$s (%2$s votes)"
+msgstr ""
+
+#: inc/admin/review-box.php:69
+#, php-format
+msgid ""
+"The %1$s is the total user rating, and the %2$s is the number of total "
+"voters."
+msgstr ""
+
+#: inc/admin/review-box.php:75
+msgid "User Rating: Not Rated Text"
+msgstr ""
+
+#: inc/admin/review-box.php:77
+msgid "User rating: not rated yet, be the first!"
+msgstr ""
+
+#: inc/admin/review-box.php:83
+msgid "User Rating: After Vote Text"
+msgstr ""
+
+#: inc/admin/review-box.php:85
+msgid "Thank you. Your vote has been saved."
+msgstr ""
+
+#: inc/admin/review-box.php:91
+msgid "Text for those who have voted"
+msgstr ""
+
+#: inc/admin/review-box.php:93
+#, php-format
+msgid "You have voted: %s."
+msgstr ""
+
+#: inc/admin/review-box.php:94
+#, php-format
+msgid "%s is the number he/she voted."
+msgstr ""
+
+#: inc/admin/singular.php:10
+msgid "Single Post Page"
+msgstr ""
+
+#: inc/admin/singular.php:52
+msgid "Tag Text"
+msgstr ""
+
+#: inc/admin/singular.php:54 inc/widgets/articles.php:189
+#: inc/widgets/breaking-news.php:157 inc/widgets/flickr-feed.php:78
+#: inc/widgets/posts-carousel.php:149 inc/widgets/slider-tabs.php:136
+#: inc/widgets/tabs.php:147
+msgid "Tags:"
+msgstr ""
+
+#: inc/admin/singular.php:75
+msgid "Display Share Buttons"
+msgstr ""
+
+#: inc/admin/singular.php:82
+msgid "Share Text"
+msgstr ""
+
+#: inc/admin/singular.php:84
+msgid "Share:"
+msgstr ""
+
+#: inc/admin/singular.php:90
+msgid "Share Buttons"
+msgstr ""
+
+#: inc/admin/singular.php:121
+msgid "Display Author Info"
+msgstr ""
+
+#: inc/admin/singular.php:128
+msgid "Author Info Title"
+msgstr ""
+
+#: inc/admin/singular.php:136
+msgid "Display Related Posts"
+msgstr ""
+
+#: inc/admin/singular.php:143
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/admin/singular.php:145
+msgid "Related Posts"
+msgstr ""
+
+#: inc/admin/singular.php:151
+msgid "Related Posts - Post Meta"
+msgstr ""
+
+#: inc/admin/singular.php:155 inc/widgets/slider-tabs.php:266
+msgid "Category"
+msgstr ""
+
+#: inc/admin/singular.php:171
+msgid "Related Posts - Date Format"
+msgstr ""
+
+#: inc/admin/singular.php:182
+msgid ""
+"Add new widgets area for Single Post Page to replace the default widgets "
+"area."
+msgstr ""
+
+#: inc/admin/static-page.php:10
+msgid "Static Page"
+msgstr ""
+
+#: inc/admin/static-page.php:24
+msgid "Use Custom Widgets"
+msgstr ""
+
+#: inc/admin/static-page.php:25
+msgid ""
+"Add new widgets area for Static Page to replace the default widgets area."
+msgstr ""
+
+#: inc/admin/top-menu.php:12
+msgid "Display Top Menu"
+msgstr ""
+
+#: inc/admin/top-menu.php:19
+msgid "Display Search Form"
+msgstr ""
+
+#: inc/admin/top-menu.php:27
+msgid "Display Social Media"
+msgstr ""
+
+#: inc/admin/top-menu.php:35
+msgid "Display WooCommerce Cart"
+msgstr ""
+
+#: inc/admin/top-menu.php:63
+msgid "Top menu navigation settings"
+msgstr ""
+
+#: inc/admin/twitter.php:9
+msgid "Twitter API Keys"
+msgstr ""
+
+#: inc/admin/twitter.php:10
+msgid ""
+"These keys are required in order to be able to use Twitter Feed Widget. I "
+"you don't have one, you can get it from <a href='https://dev.twitter.com/"
+"apps' target='_blank'>https://dev.twitter.com/apps</a>."
+msgstr ""
+
+#: inc/admin/twitter.php:17
+msgid "API Key/Consumer Key"
+msgstr ""
+
+#: inc/admin/twitter.php:24
+msgid "API Secret/Consumer Secret"
+msgstr ""
+
+#: inc/admin/twitter.php:31
+msgid "Access Token"
+msgstr ""
+
+#: inc/admin/twitter.php:38
+msgid "Access Token Secret"
+msgstr ""
+
+#: inc/admin/typography.php:5
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/typography.php:10
+msgid "Google API Key"
+msgstr ""
+
+#: inc/admin/typography.php:11
+msgid ""
+"You will need a Google API key if you want to use Google Fonts. Click <a "
+"href=\"https://developers.google.com/fonts/docs/developer_api#Auth\" target="
+"\"_blank\">here</a> to get the API key."
+msgstr ""
+
+#: inc/admin/typography.php:20
+msgid "Body Text"
+msgstr ""
+
+#: inc/admin/typography.php:42
+msgid "Headings"
+msgstr ""
+
+#: inc/admin/typography.php:72
+msgid "Widget Header"
+msgstr ""
+
+#: inc/admin/typography.php:113
+msgid "Page Title"
+msgstr ""
+
+#: inc/admin/typography.php:132
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/admin/typography.php:171 inc/shortcodes/lang/lang.php:48
+#: inc/shortcodes/modal/spoiler.php:13
+msgid "Button"
+msgstr ""
+
+#: inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras/category.php:18 inc/extras/category.php:43
+#: inc/meta-boxes/title-bg.php:26 inc/meta-boxes/title-bg.php:142
+msgid "Custom Title Background"
+msgstr ""
+
+#: inc/extras/category.php:48 inc/meta-boxes/title-bg.php:147
+msgid "Set as Title Background"
+msgstr ""
+
+#: inc/friskamax-helper/class-friskamax-helper.php:12
+msgid "Search:"
+msgstr ""
+
+#: inc/friskamax-helper/class-friskamax-helper.php:34
+#: inc/shortcodes/lang/lang.php:19
+msgid "Cancel"
+msgstr ""
+
+#: inc/friskamax-helper/class-friskamax-helper.php:35
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:293
+#: inc/friskamax-page-builder/element-widget-area.php:83
+#: inc/friskamax-page-builder/template/modal-insert-row-body.php:28
+#: inc/shortcodes/lang/lang.php:21
+msgid "Insert"
+msgstr ""
+
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:55
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:133
+msgid "Page Builder"
+msgstr ""
+
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:134
+msgid "Exit Page Builder"
+msgstr ""
+
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:135
+#: inc/friskamax-page-builder/template/main.php:5
+msgid "Full Screen"
+msgstr ""
+
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:136
+msgid "Exit Full Screen"
+msgstr ""
+
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:138
+msgid "Are you sure you want to delete it?"
+msgstr ""
+
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:139
+msgid "Please enter the title"
+msgstr ""
+
+#: inc/friskamax-page-builder/class-fsmpb-meta-box.php:140
+msgid "Invalid value"
+msgstr ""
+
+#: inc/friskamax-page-builder/element-widget-area.php:53
+#: inc/meta-boxes/sidebar.php:31
+msgid "Add new"
+msgstr ""
+
+#: inc/friskamax-page-builder/element-widget-area.php:68
+#: inc/friskamax-page-builder/template/templates.php:11
+#: inc/meta-boxes/sidebar.php:46
+msgid "Delete"
+msgstr ""
+
+#: inc/friskamax-page-builder/element-widget-area.php:71
+#: inc/meta-boxes/sidebar.php:50
+msgid "Name"
+msgstr ""
+
+#: inc/friskamax-page-builder/element-widget-area.php:95
+#: inc/meta-boxes/sidebar.php:68
+msgid "Are you sure want to delete this widget area?"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/main.php:2
+#: inc/friskamax-page-builder/template/modal-insert-row.php:7
+msgid "Insert Row"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/main.php:3
+#: inc/friskamax-page-builder/template/modal-insert-row.php:20
+msgid "Insert Sub Row"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/main.php:4
+msgid "Insert Element"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/modal-insert-row-body.php:4
+msgid "Choose Layout:"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/modal-insert-row-body.php:20
+msgid "Custom Layout:"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/modal-insert-row-body.php:23
+msgid "The sum of the columns should be 12. Example: 3-6-3"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/modal-loading.php:5
+#: inc/widgets/flickr-feed.php:155 inc/widgets/twitter-feed.php:185
+msgid "Please wait&hellip;"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/templates.php:9
+#: inc/template-tags/comment.php:31 inc/template-tags/comment.php:58
+#: inc/template-tags/posted-on.php:149
+msgid "Edit"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/templates.php:10
+msgid "Duplicate"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/templates.php:27
+msgid "Move this row"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/templates.php:28
+msgid "Duplicate this row"
+msgstr ""
+
+#: inc/friskamax-page-builder/template/templates.php:29
+msgid "Delete this row"
+msgstr ""
+
+#: inc/meta-boxes/display-options.php:26
+msgid "Display options"
+msgstr ""
+
+#: inc/meta-boxes/display-options.php:106
+msgid "Hide:"
+msgstr ""
+
+#: inc/meta-boxes/display-options.php:109
+msgid "Featured image on main post page"
+msgstr ""
+
+#: inc/meta-boxes/display-options.php:113
+msgid "Post meta on main post page"
+msgstr ""
+
+#: inc/meta-boxes/full-carousel.php:21
+msgid "Full Width Carousel"
+msgstr ""
+
+#: inc/meta-boxes/full-carousel.php:61
+msgid "Enable full width carousel"
+msgstr ""
+
+#: inc/meta-boxes/init.php:102
+msgid "Warta Widgets"
+msgstr ""
+
+#: inc/meta-boxes/init.php:106
+msgid "WordPress Widgets"
+msgstr ""
+
+#: inc/meta-boxes/init.php:113
+msgid "Plugin Widgets"
+msgstr ""
+
+#: inc/meta-boxes/init.php:114
+msgid ""
+"Note: widgets in this tab may not work properly. If it doesn't work, please "
+"use <strong>Widget Area</strong> instead. You can find it in tab "
+"<strong>Other</strong>."
+msgstr ""
+
+#: inc/meta-boxes/init.php:121
+msgid "Other"
+msgstr ""
+
+#: inc/meta-boxes/init.php:125
+msgid "Widgets Area"
+msgstr ""
+
+#: inc/meta-boxes/init.php:126
+msgid ""
+"An area that you can add widgets in it from <strong>Appearance > Widgets</"
+"strong>"
+msgstr ""
+
+#: inc/meta-boxes/review.php:127 inc/shortcodes/accordion.php:30
+msgid "New Title"
+msgstr ""
+
+#: inc/meta-boxes/review.php:167
+msgid "New Title "
+msgstr ""
+
+#: inc/meta-boxes/review.php:196
+msgid "Category Title:"
+msgstr ""
+
+#: inc/meta-boxes/review.php:200
+msgid "Category Score:"
+msgstr ""
+
+#: inc/meta-boxes/review.php:205
+msgid "Remove category"
+msgstr ""
+
+#: inc/meta-boxes/review.php:217
+msgid "Total Score: "
+msgstr ""
+
+#: inc/meta-boxes/review.php:226
+msgid "Summary: "
+msgstr ""
+
+#: inc/meta-boxes/review.php:237
+msgid "Enable advanced options"
+msgstr ""
+
+#: inc/meta-boxes/sidebar.php:23
+msgid "Widget area"
+msgstr ""
+
+#: inc/meta-boxes/sidebar.php:165
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/meta-boxes/title-bg.php:111
+msgid "Upload new image"
+msgstr ""
+
+#: inc/meta-boxes/title-bg.php:112
+msgid "Use featuted image"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:13
+msgid "Alignment"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:14
+msgid "Align left"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:15
+msgid "Align center"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:16
+msgid "Align right"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:17
+msgid "Justify"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:18 inc/shortcodes/modal/spoiler.php:28
+#: inc/shortcodes/modal/spoiler.php:46
+msgid "Block"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:20 inc/shortcodes/modal/accordion.php:19
+#: inc/shortcodes/modal/tabs.php:19
+msgid "Content"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:22 inc/shortcodes/modal/spoiler.php:27
+#: inc/shortcodes/modal/spoiler.php:45
+msgid "Inline"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:23
+msgid "Max width"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:24
+msgid "Max height"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:25
+msgctxt "Link target, open in new window"
+msgid "New window"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:26
+msgid "Reverse"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:27
+msgctxt "Link target, open in same window"
+msgid "Same window"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:28
+msgid "Display style"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:29
+msgctxt "Link target, open link in current tab/new tab"
+msgid "Target"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:31
+msgid "Type"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:32
+msgctxt "Uniform Resource Locator"
+msgid "URL"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:35
+msgid "Columns"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:36
+msgid "Number of columns"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:37
+msgid "2 columns"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:38
+msgid "3 columns"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:39
+msgid "4 columns"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:42
+msgid "Dropcaps"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:45
+msgid "Small Font"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:49 inc/shortcodes/lang/lang.php:110
+#: inc/shortcodes/modal/spoiler.php:43
+msgid "Button type"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:50 inc/shortcodes/modal/spoiler.php:15
+msgid "Default button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:51 inc/shortcodes/modal/spoiler.php:16
+msgid "Primary button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:52 inc/shortcodes/modal/spoiler.php:17
+msgid "Success button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:53 inc/shortcodes/modal/spoiler.php:18
+msgid "Info button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:54 inc/shortcodes/modal/spoiler.php:19
+msgid "Warning button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:55 inc/shortcodes/modal/spoiler.php:20
+msgid "Danger button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:56
+msgid "Button Size"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:57
+msgid "Large button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:58
+msgid "Small button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:59
+msgid "Extra Small button"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:62
+msgid "Label"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:63
+msgid "Label type"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:64
+msgid "Default label"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:65
+msgid "Primary label"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:66
+msgid "Success label"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:67
+msgid "Info label"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:68
+msgid "Warning label"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:69
+msgid "Danger label"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:72
+msgid "Alert"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:73
+msgid "Alert type"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:74
+msgid "Success alert"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:75
+msgid "Info alert"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:76
+msgid "Warning alert"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:77
+msgid "Danger alert"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:80
+msgid "Custom blockquote"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:81
+msgid "Source title"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:82
+msgid "Source URL"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:85
+msgid "Embed"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:86
+msgid "Click here to see all sites that can be embedded."
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:89
+msgid "Font Awesome Icons"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:92 inc/shortcodes/modal/tabs.php:65
+msgid "Tabs"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:93 inc/shortcodes/modal/tabs.php:25
+#: inc/widgets/tabs.php:279
+msgid "Add tab"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:94
+msgid "Remove tab"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:97 inc/shortcodes/modal/accordion.php:72
+msgid "Accordion"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:98
+msgid "Remove section"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:99 inc/shortcodes/modal/accordion.php:31
+msgid "Add section"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:103
+msgid "Create Carousel"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:106 inc/shortcodes/modal/spoiler.php:77
+msgid "Spoiler"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:107 inc/shortcodes/modal/spoiler.php:38
+msgid "Hide text"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:108 inc/shortcodes/modal/spoiler.php:33
+msgid "Show text"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:109 inc/shortcodes/modal/spoiler.php:25
+msgid "Spoiler type"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:113
+msgid "Divider Line"
+msgstr ""
+
+#: inc/shortcodes/lang/lang.php:116
+msgid "Page Break"
+msgstr ""
+
+#: inc/shortcodes/modal/accordion.php:26
+msgid "Show the content in first load"
+msgstr ""
+
+#: inc/shortcodes/modal/accordion.php:29
+msgid "Delete section"
+msgstr ""
+
+#: inc/shortcodes/modal/spoiler.php:34 inc/shortcodes/spoiler.php:13
+msgid "Show"
+msgstr ""
+
+#: inc/shortcodes/modal/spoiler.php:39 inc/shortcodes/spoiler.php:14
+msgid "Hide"
+msgstr ""
+
+#: inc/shortcodes/modal/tabs.php:23 inc/widgets/tabs.php:275
+msgid "Delete tab"
+msgstr ""
+
+#: inc/template-tags/article-footer.php:46
+msgid "Read More"
+msgstr ""
+
+#: inc/template-tags/comment.php:21
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags/comment.php:26 inc/template-tags/comment.php:53
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags/comment.php:67
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags/comment.php:77
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags/featured-image.php:82 inc/template-tags/posted-on.php:106
+#: single.php:66
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags/featured-image.php:89 inc/template-tags/posted-on.php:61
+#, php-format
+msgid "View all %s posts"
+msgstr ""
+
+#: inc/template-tags/featured-image.php:96 inc/template-tags/posted-on.php:116
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags/menu-cart.php:9 inc/template-tags/menu-cart.php:32
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/template-tags/menu-cart.php:11 inc/template-tags/menu-cart.php:34
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags/post-nav.php:24
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags/post-nav.php:27
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">Previous Post:</span> <h5>%title</h5>"
+msgstr ""
+
+#: inc/template-tags/post-nav.php:28
+msgctxt "Next post link"
+msgid "<span class=\"meta-nav\">Next Post:</span> <h5>%title</h5>"
+msgstr ""
+
+#: inc/template-tags/posted-on.php:51 inc/template-tags/posted-on.php:92
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/template-tags/posted-on.php:71 inc/template-tags/posted-on.php:88
+#, php-format
+msgid "View all posts under %s category"
+msgstr ""
+
+#: inc/template-tags/posted-on.php:82
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags/posted-on.php:126
+#, php-format
+msgid "%d view"
+msgid_plural "%d views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags/posted-on.php:149
+msgid "Edit post"
+msgstr ""
+
+#: inc/variable.php:9
+msgid "Amazon"
+msgstr ""
+
+#: inc/variable.php:10
+msgid "Behance"
+msgstr ""
+
+#: inc/variable.php:11
+msgid "Blogger"
+msgstr ""
+
+#: inc/variable.php:12
+msgid "CodePen"
+msgstr ""
+
+#: inc/variable.php:13
+msgid "deviantART"
+msgstr ""
+
+#: inc/variable.php:14
+msgid "Dribbble"
+msgstr ""
+
+#: inc/variable.php:15
+msgid "Facebook"
+msgstr ""
+
+#: inc/variable.php:16
+msgid "Feedly"
+msgstr ""
+
+#: inc/variable.php:17
+msgid "Flickr"
+msgstr ""
+
+#: inc/variable.php:18
+msgid "Forrst"
+msgstr ""
+
+#: inc/variable.php:19
+msgid "Foursquare"
+msgstr ""
+
+#: inc/variable.php:20
+msgid "Google+"
+msgstr ""
+
+#: inc/variable.php:21
+msgid "GitHub"
+msgstr ""
+
+#: inc/variable.php:22
+msgid "Grooveshark"
+msgstr ""
+
+#: inc/variable.php:23
+msgid "Instagram"
+msgstr ""
+
+#: inc/variable.php:24
+msgid "Kickstarter"
+msgstr ""
+
+#: inc/variable.php:25
+msgid "Last.fm"
+msgstr ""
+
+#: inc/variable.php:26
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/variable.php:27
+msgid "Myspace"
+msgstr ""
+
+#: inc/variable.php:28
+msgid "Picasa"
+msgstr ""
+
+#: inc/variable.php:29
+msgid "Pinterest"
+msgstr ""
+
+#: inc/variable.php:30
+msgid "Quora"
+msgstr ""
+
+#: inc/variable.php:31
+msgid "reddit"
+msgstr ""
+
+#: inc/variable.php:32
+msgid "Renren"
+msgstr ""
+
+#: inc/variable.php:33
+msgid "RSS"
+msgstr ""
+
+#: inc/variable.php:34
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/variable.php:35
+msgid "Stack Exchange"
+msgstr ""
+
+#: inc/variable.php:36
+msgid "Stack Overflow"
+msgstr ""
+
+#: inc/variable.php:37
+msgid "Steam"
+msgstr ""
+
+#: inc/variable.php:38
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/variable.php:39
+msgid "Technorati"
+msgstr ""
+
+#: inc/variable.php:40
+msgid "Tencent Weibo"
+msgstr ""
+
+#: inc/variable.php:41
+msgid "Tumblr"
+msgstr ""
+
+#: inc/variable.php:42
+msgid "Twitter"
+msgstr ""
+
+#: inc/variable.php:43
+msgid "Vimeo"
+msgstr ""
+
+#: inc/variable.php:44
+msgid "Vine"
+msgstr ""
+
+#: inc/variable.php:45
+msgid "Wikipedia"
+msgstr ""
+
+#: inc/variable.php:46
+msgid "VK"
+msgstr ""
+
+#: inc/variable.php:47
+msgid "Weibo"
+msgstr ""
+
+#: inc/variable.php:48
+msgid "WordPress"
+msgstr ""
+
+#: inc/variable.php:49
+msgid "XING"
+msgstr ""
+
+#: inc/variable.php:50
+msgid "Yahoo"
+msgstr ""
+
+#: inc/variable.php:51
+msgid "YouTube"
+msgstr ""
+
+#: inc/variable.php:52
+msgid "Zerply"
+msgstr ""
+
+#: inc/variable.php:56
+msgid "AddThis"
+msgstr ""
+
+#: inc/variable.php:57
+msgid "Bebo"
+msgstr ""
+
+#: inc/variable.php:58
+msgid "Delicious"
+msgstr ""
+
+#: inc/variable.php:59
+msgid "Digg"
+msgstr ""
+
+#: inc/variable.php:60
+msgid "Dropbox"
+msgstr ""
+
+#: inc/variable.php:61
+msgid "Evernote"
+msgstr ""
+
+#: inc/variable.php:62
+msgid "ShareThis"
+msgstr ""
+
+#: inc/variable.php:63
+msgid "Skype"
+msgstr ""
+
+#: inc/variable.php:65
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/ads.php:23
+msgid "[Warta] Advertisement"
+msgstr ""
+
+#: inc/widgets/ads.php:24
+msgid "Advertisement."
+msgstr ""
+
+#: inc/widgets/ads.php:28 inc/widgets/articles.php:37
+#: inc/widgets/breaking-news.php:36 inc/widgets/feedburner.php:70
+#: inc/widgets/flickr-feed.php:30 inc/widgets/gallery-carousel.php:27
+#: inc/widgets/posts-carousel.php:41 inc/widgets/slider-tabs.php:58
+#: inc/widgets/slider-tabs.php:333 inc/widgets/social-media.php:32
+#: inc/widgets/sub-categories.php:32 inc/widgets/tabs.php:42
+#: inc/widgets/tabs.php:303 inc/widgets/text-editor.php:77
+#: inc/widgets/twitter-feed.php:30
+msgid "New title"
+msgstr ""
+
+#: inc/widgets/ads.php:93 inc/widgets/articles.php:97
+#: inc/widgets/breaking-news.php:66 inc/widgets/feedburner.php:78
+#: inc/widgets/flickr-feed.php:42 inc/widgets/gallery-carousel.php:48
+#: inc/widgets/posts-carousel.php:73 inc/widgets/slider-tabs.php:91
+#: inc/widgets/social-media.php:38 inc/widgets/sub-categories.php:40
+#: inc/widgets/tabs.php:76 inc/widgets/text-editor.php:122
+#: inc/widgets/twitter-feed.php:54
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/ads.php:107
+msgid "Advertisement type:"
+msgstr ""
+
+#: inc/widgets/ads.php:113
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/ads.php:114
+msgid "JavaScript"
+msgstr ""
+
+#: inc/widgets/ads.php:122
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/ads.php:129
+msgid ""
+"Recommended image size on main section is 730px wide and in sidebar section "
+"is 340px wide."
+msgstr ""
+
+#: inc/widgets/ads.php:135
+msgid "Advertisement URL:"
+msgstr ""
+
+#: inc/widgets/ads.php:147
+msgid "Advertisement code:"
+msgstr ""
+
+#: inc/widgets/ads.php:155
+msgid ""
+"Please use responsive ad unit in order to be displayed correctly in all "
+"screen sizes. If you're using Google Adsense, you can find the tutorial <a "
+"target=\"_blank\" href=\"https://support.google.com/adsense/"
+"answer/3213689\">here</a>."
+msgstr ""
+
+#: inc/widgets/ads.php:169 inc/widgets/gallery-carousel.php:104
+#: inc/widgets/posts-carousel.php:231 inc/widgets/slider-tabs.php:309
+msgid "Hide on mobile devices"
+msgstr ""
+
+#: inc/widgets/articles.php:23
+msgid "[Warta] Articles"
+msgstr ""
+
+#: inc/widgets/articles.php:24
+msgid "Articles box."
+msgstr ""
+
+#: inc/widgets/articles.php:75
+msgid "Layout:"
+msgstr ""
+
+#: inc/widgets/articles.php:110 inc/widgets/breaking-news.php:79
+#: inc/widgets/posts-carousel.php:86 inc/widgets/slider-tabs.php:103
+#: inc/widgets/tabs.php:88
+msgid "Data:"
+msgstr ""
+
+#: inc/widgets/articles.php:115 inc/widgets/breaking-news.php:84
+#: inc/widgets/posts-carousel.php:91 inc/widgets/slider-tabs.php:108
+#: inc/widgets/tabs.php:93
+msgid "Latest posts"
+msgstr ""
+
+#: inc/widgets/articles.php:116 inc/widgets/breaking-news.php:85
+#: inc/widgets/posts-carousel.php:92 inc/widgets/slider-tabs.php:109
+#: inc/widgets/tabs.php:94
+msgid "Popular posts"
+msgstr ""
+
+#: inc/widgets/articles.php:117 inc/widgets/breaking-news.php:86
+#: inc/widgets/slider-tabs.php:113 inc/widgets/tabs.php:97
+msgid "Review posts"
+msgstr ""
+
+#: inc/widgets/articles.php:118 inc/widgets/breaking-news.php:87
+#: inc/widgets/posts-carousel.php:93 inc/widgets/slider-tabs.php:110
+#: inc/widgets/tabs.php:95
+msgid "Posts by category"
+msgstr ""
+
+#: inc/widgets/articles.php:119 inc/widgets/breaking-news.php:88
+#: inc/widgets/posts-carousel.php:94 inc/widgets/slider-tabs.php:111
+#: inc/widgets/tabs.php:96
+msgid "Posts by tags"
+msgstr ""
+
+#: inc/widgets/articles.php:120 inc/widgets/breaking-news.php:89
+#: inc/widgets/posts-carousel.php:95 inc/widgets/slider-tabs.php:114
+msgid "Posts by IDs"
+msgstr ""
+
+#: inc/widgets/articles.php:129 inc/widgets/breaking-news.php:98
+#: inc/widgets/posts-carousel.php:104 inc/widgets/slider-tabs.php:182
+#: inc/widgets/tabs.php:109
+msgid "Sort by:"
+msgstr ""
+
+#: inc/widgets/articles.php:131 inc/widgets/articles.php:271
+#: inc/widgets/breaking-news.php:100 inc/widgets/posts-carousel.php:106
+#: inc/widgets/slider-tabs.php:184 inc/widgets/slider-tabs.php:276
+#: inc/widgets/tabs.php:111 inc/widgets/tabs.php:260
+msgid "Comments count"
+msgstr ""
+
+#: inc/widgets/articles.php:132 inc/widgets/articles.php:275
+#: inc/widgets/breaking-news.php:101 inc/widgets/posts-carousel.php:107
+#: inc/widgets/slider-tabs.php:185 inc/widgets/slider-tabs.php:281
+#: inc/widgets/tabs.php:112 inc/widgets/tabs.php:265
+msgid "Views count"
+msgstr ""
+
+#: inc/widgets/articles.php:151 inc/widgets/breaking-news.php:120
+#: inc/widgets/posts-carousel.php:121 inc/widgets/slider-tabs.php:193
+#: inc/widgets/tabs.php:120
+msgid "Time range:"
+msgstr ""
+
+#: inc/widgets/articles.php:153 inc/widgets/breaking-news.php:122
+#: inc/widgets/posts-carousel.php:123 inc/widgets/slider-tabs.php:195
+#: inc/widgets/tabs.php:122
+msgid "All time"
+msgstr ""
+
+#: inc/widgets/articles.php:154 inc/widgets/breaking-news.php:123
+#: inc/widgets/posts-carousel.php:124 inc/widgets/slider-tabs.php:196
+#: inc/widgets/tabs.php:123
+msgid "Last year"
+msgstr ""
+
+#: inc/widgets/articles.php:155 inc/widgets/breaking-news.php:124
+#: inc/widgets/posts-carousel.php:125 inc/widgets/slider-tabs.php:197
+#: inc/widgets/tabs.php:124
+msgid "Last month"
+msgstr ""
+
+#: inc/widgets/articles.php:156 inc/widgets/breaking-news.php:125
+#: inc/widgets/posts-carousel.php:126 inc/widgets/slider-tabs.php:198
+#: inc/widgets/tabs.php:125
+msgid "Last week"
+msgstr ""
+
+#: inc/widgets/articles.php:166 inc/widgets/breaking-news.php:135
+#: inc/widgets/slider-tabs.php:218 inc/widgets/tabs.php:159
+msgid "Sort by review score"
+msgstr ""
+
+#: inc/widgets/articles.php:174 inc/widgets/breaking-news.php:143
+#: inc/widgets/posts-carousel.php:135 inc/widgets/slider-tabs.php:122
+#: inc/widgets/tabs.php:134
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets/articles.php:192 inc/widgets/breaking-news.php:160
+#: inc/widgets/posts-carousel.php:152 inc/widgets/slider-tabs.php:139
+#: inc/widgets/tabs.php:150
+msgid "Enter the tag slugs, separated by commas."
+msgstr ""
+
+#: inc/widgets/articles.php:199 inc/widgets/breaking-news.php:167
+#: inc/widgets/posts-carousel.php:159 inc/widgets/slider-tabs.php:206
+#: inc/widgets/tabs.php:166
+msgid "Post IDs:"
+msgstr ""
+
+#: inc/widgets/articles.php:202 inc/widgets/breaking-news.php:170
+#: inc/widgets/posts-carousel.php:162 inc/widgets/slider-tabs.php:209
+#: inc/widgets/tabs.php:169
+msgid "Enter the post IDs, separated by commas."
+msgstr ""
+
+#: inc/widgets/articles.php:209 inc/widgets/breaking-news.php:177
+#: inc/widgets/flickr-feed.php:99 inc/widgets/posts-carousel.php:169
+#: inc/widgets/slider-tabs.php:225 inc/widgets/tabs.php:194
+#: inc/widgets/twitter-feed.php:109
+msgid "Number of items to show:"
+msgstr ""
+
+#: inc/widgets/articles.php:218 inc/widgets/posts-carousel.php:178
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/widgets/articles.php:228 inc/widgets/slider-tabs.php:233
+#: inc/widgets/tabs.php:202 inc/widgets/twitter-feed.php:117
+msgid "Date format:"
+msgstr ""
+
+#: inc/widgets/articles.php:241 inc/widgets/breaking-news.php:227
+#: inc/widgets/posts-carousel.php:222 inc/widgets/slider-tabs.php:245
+#: inc/widgets/tabs.php:224
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: inc/widgets/articles.php:248 inc/widgets/slider-tabs.php:252
+#: inc/widgets/tabs.php:231
+msgid "Post meta:"
+msgstr ""
+
+#: inc/widgets/articles.php:443
+msgid "More posts"
+msgstr ""
+
+#: inc/widgets/breaking-news.php:23
+msgid "[Warta] Breaking News"
+msgstr ""
+
+#: inc/widgets/breaking-news.php:24
+msgid "Scrolling text links."
+msgstr ""
+
+#: inc/widgets/breaking-news.php:186
+msgid "Icon code:"
+msgstr ""
+
+#: inc/widgets/breaking-news.php:200
+msgid "Duration:"
+msgstr ""
+
+#: inc/widgets/breaking-news.php:203
+msgid "Speed in milliseconds"
+msgstr ""
+
+#: inc/widgets/breaking-news.php:209
+msgid "Direction:"
+msgstr ""
+
+#: inc/widgets/breaking-news.php:213
+msgid "left"
+msgstr ""
+
+#: inc/widgets/breaking-news.php:218
+msgid "right"
+msgstr ""
+
+#: inc/widgets/feedburner.php:17
+msgid "[Warta] Feedburner"
+msgstr ""
+
+#: inc/widgets/feedburner.php:18
+msgid "Feedburner email subscription."
+msgstr ""
+
+#: inc/widgets/feedburner.php:48
+msgid "Enter your email address"
+msgstr ""
+
+#: inc/widgets/feedburner.php:91
+msgid "Feedburner ID:"
+msgstr ""
+
+#: inc/widgets/feedburner.php:94
+msgid ""
+"Example: If your Feedburner URL is http://feeds.feedburner.com/"
+"YourFeedburnerID, then <strong>YourFeedburnerID</strong> is your ID"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:16
+msgid "[Warta] Flickr Feed"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:17
+msgid "Display latest photos from Flickr"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:55
+msgid "ID:"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:58
+msgid ""
+"Optional. A single user ID. This specifies a user to fetch for. Example: "
+"112356465@N05. Note: you can't use your screen name, If you don't know what "
+"your ID is, you can get it from <a href='http://idgettr.com/' "
+"target='_blank'>http://idgettr.com/</a>"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:67
+msgid "IDs:"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:70
+msgid ""
+"Optional. A comma delimited list of user IDs without spaces. This specifies "
+"a list of users to fetch for. Example: 112356465@N05,112356465@N05"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:81
+msgid ""
+"Optional. A comma delimited list of tags to filter the feed by. Example: red,"
+"green,blue"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:87
+msgid "Tag mode:"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:90
+msgid "Any"
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:93
+msgid "Control whether items must have ALL the tags, or ANY of the tags."
+msgstr ""
+
+#: inc/widgets/flickr-feed.php:102
+msgid "Maximum 20."
+msgstr ""
+
+#: inc/widgets/gallery-carousel.php:22
+msgid "[Warta] Gallery Carousel"
+msgstr ""
+
+#: inc/widgets/gallery-carousel.php:23
+msgid "Images carousel from a gallery post type post"
+msgstr ""
+
+#: inc/widgets/gallery-carousel.php:61 inc/widgets/slider-tabs.php:145
+msgid "Gallery post:"
+msgstr ""
+
+#: inc/widgets/gallery-carousel.php:89 inc/widgets/slider-tabs.php:173
+msgid "Caption Length:"
+msgstr ""
+
+#: inc/widgets/init.php:65
+msgid "Before Content - Archive Page"
+msgstr ""
+
+#: inc/widgets/init.php:66
+msgid "Appears on top main section of archive page."
+msgstr ""
+
+#: inc/widgets/init.php:74
+msgid "Before Content - Single Post Page"
+msgstr ""
+
+#: inc/widgets/init.php:75
+msgid "Appears on top main section of single post page."
+msgstr ""
+
+#: inc/widgets/init.php:88
+msgid "After Content - Archive Page"
+msgstr ""
+
+#: inc/widgets/init.php:89
+msgid "Appears on bottom main section of archive page (above pagination)."
+msgstr ""
+
+#: inc/widgets/init.php:97
+msgid "After Content - Single Post Page"
+msgstr ""
+
+#: inc/widgets/init.php:98
+msgid ""
+"Appears on main section of single post page below post content (or author "
+"info if any)."
+msgstr ""
+
+#: inc/widgets/init.php:112
+msgid "Sidebar Section - Default"
+msgstr ""
+
+#: inc/widgets/init.php:113
+msgid ""
+"Appears in the sidebar section (next to main section) of all pages. Can be "
+"replaced with custom widgets area."
+msgstr ""
+
+#: inc/widgets/init.php:124
+msgid ""
+"Appears in the sidebar section (next to main section) of archive page. "
+"Replaces \"Sidebar Section - Default\"."
+msgstr ""
+
+#: inc/widgets/init.php:129
+msgid ""
+"Appears in the sidebar section (next to main section) of single post page. "
+"Replaces \"Sidebar Section - Default\"."
+msgstr ""
+
+#: inc/widgets/init.php:134
+msgid ""
+"Appears in the sidebar section (next to main section) of static page. "
+"Replaces \"Sidebar Section - Default\"."
+msgstr ""
+
+#: inc/widgets/init.php:140
+#, php-format
+msgid "Sidebar Section - %s"
+msgstr ""
+
+#: inc/widgets/init.php:157
+msgid "Footer Section - Default"
+msgstr ""
+
+#: inc/widgets/init.php:159
+msgid ""
+"Appears in the footer section of all pages. Can be replaced with custom "
+"widgets area."
+msgstr ""
+
+#: inc/widgets/init.php:174
+msgid ""
+"Appears in the footer section of archive page. Replaces \"Footer Section - "
+"Default\"."
+msgstr ""
+
+#: inc/widgets/init.php:182
+msgid ""
+"Appears in the footer section of single post page. Replaces \"Footer Section "
+"- Default\"."
+msgstr ""
+
+#: inc/widgets/init.php:190
+msgid ""
+"Appears in the footer section of static page. Replaces \"Footer Section - "
+"Default\"."
+msgstr ""
+
+#: inc/widgets/init.php:196
+#, php-format
+msgid "Footer Section - %s"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:28
+msgid "[Warta] Posts Carousel"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:29
+msgid "Images carousel from posts"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:188
+msgid "Interval:"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:191
+msgid ""
+"The amount of time to delay between automatically cycling an item (in "
+"miliseconds)"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:198
+msgid "Caption Animation:"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:200
+msgctxt "Animation type"
+msgid "Slide"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:201
+msgctxt "Animation type"
+msgid "Fade"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:202
+msgctxt "Animation type"
+msgid "Bounce"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:211
+msgid "Caption Animation Speed:"
+msgstr ""
+
+#: inc/widgets/posts-carousel.php:214
+msgid "The amount of time to animate the caption (in miliseconds)"
+msgstr ""
+
+#: inc/widgets/slider-tabs.php:22
+msgid "[Warta] Slider Tabs"
+msgstr ""
+
+#: inc/widgets/slider-tabs.php:23
+msgid "Items slider in togglable tabs."
+msgstr ""
+
+#: inc/widgets/slider-tabs.php:112
+msgid "Gallery images"
+msgstr ""
+
+#: inc/widgets/social-media.php:17
+msgid "[Warta] Social Media"
+msgstr ""
+
+#: inc/widgets/social-media.php:18
+msgid "Social media icons."
+msgstr ""
+
+#: inc/widgets/social-media.php:52
+#, php-format
+msgctxt "Social media URL"
+msgid "%s URL:"
+msgstr ""
+
+#: inc/widgets/sub-categories.php:18
+msgid "[Warta] Sub Categories"
+msgstr ""
+
+#: inc/widgets/sub-categories.php:19
+msgid "Displays sub categories of a selected parent category."
+msgstr ""
+
+#: inc/widgets/sub-categories.php:53
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/widgets/sub-categories.php:116 inc/widgets/tabs.php:439
+#, php-format
+msgid "View %d posts under %s category"
+msgstr ""
+
+#: inc/widgets/tabs.php:28
+msgid "[Warta] Tabs"
+msgstr ""
+
+#: inc/widgets/tabs.php:29
+msgid "Togglable tabs "
+msgstr ""
+
+#: inc/widgets/tabs.php:98
+msgid "Posts by selected IDs"
+msgstr ""
+
+#: inc/widgets/tabs.php:99
+msgid "List of main categories"
+msgstr ""
+
+#: inc/widgets/tabs.php:100
+msgid "Popular tags"
+msgstr ""
+
+#: inc/widgets/tabs.php:101
+msgid "Recent comments"
+msgstr ""
+
+#: inc/widgets/tabs.php:178
+msgid "Show post counts"
+msgstr ""
+
+#: inc/widgets/tabs.php:185
+msgid "Excerpt length:"
+msgstr ""
+
+#: inc/widgets/tabs.php:214
+msgid "Display featured image"
+msgstr ""
+
+#: inc/widgets/tabs.php:465
+#, php-format
+msgid "View %d posts with %s tag"
+msgstr ""
+
+#: inc/widgets/text-editor.php:24
+msgid "Text Editor"
+msgstr ""
+
+#: inc/widgets/text-editor.php:31
+msgid "Save changes"
+msgstr ""
+
+#: inc/widgets/text-editor.php:72
+msgid "[Warta] Text Editor"
+msgstr ""
+
+#: inc/widgets/text-editor.php:73
+msgid "TinyMce text editor."
+msgstr ""
+
+#: inc/widgets/text-editor.php:136
+msgid "Content:"
+msgstr ""
+
+#: inc/widgets/text-editor.php:142
+msgid "Open editor"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:17
+msgid "[Warta] Twitter Feed"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:18
+msgid "Display latest tweets"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:66
+msgid "Appearance:"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:68
+msgid "Avatar"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:69
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:70
+msgid "Text Only"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:79
+msgid "Display date"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:88
+msgid "Display reply link"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:95
+msgid "Username:"
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:103
+msgid "Optional to load tweets from another account."
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:127
+msgctxt "Twitter date format"
+msgid "Date, 1, 2, 3 ..."
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:128
+msgctxt "Twitter date format"
+msgid "Month number 1, 2, 3 ..."
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:129
+msgctxt "Twitter date format"
+msgid "Abbreviated month Jan, Feb, Mar ..."
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:130
+msgctxt "Twitter date format"
+msgid "Full month January, February, March ..."
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:131
+msgctxt "Twitter date format"
+msgid "Last two digits of year, 12, 13, 14 ..."
+msgstr ""
+
+#: inc/widgets/twitter-feed.php:132
+msgctxt "Twitter date format"
+msgid "Full year 2012, 2013, 2014 ..."
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Enter keywords"
+msgstr ""
+
+#: single.php:16
+msgctxt "Used between category list items."
+msgid " / "
+msgstr ""
+
+#: template-contact-page-full-width.php:47 template-contact-page.php:41
+msgid ""
+"Please check if you've filled all the fields with valid information. Thank "
+"you."
+msgstr ""
+
+#: template-contact-page-full-width.php:51 template-contact-page.php:45
+msgid "Oops, something went wrong. Please try again. Thank you."
+msgstr ""
+
+#: template-contact-page-full-width.php:55 template-contact-page.php:49
+msgid "Your email has been successfully sent. Thank you."
+msgstr ""
+
+#: template-contact-page-full-width.php:62 template-contact-page.php:56
+msgid "Your full name *"
+msgstr ""
+
+#: template-contact-page-full-width.php:66 template-contact-page.php:60
+msgid "Your email address *"
+msgstr ""
+
+#: template-contact-page-full-width.php:73 template-contact-page.php:67
+msgid "Your message *"
+msgstr ""
+
+#: template-contact-page-full-width.php:75 template-contact-page.php:69
+msgid "Send Message"
+msgstr ""
+
+#: template-contact-page-header.php:37
+#, php-format
+msgid "[%1$s] Message from %2$s"
+msgstr ""
+
+#: template-contact-page-header.php:38
+#, php-format
+msgid "Name: %s"
+msgstr ""
+
+#: template-contact-page-header.php:39
+#, php-format
+msgid "Email: %s"
+msgstr ""
+
+#: template-contact-page-header.php:40
+#, php-format
+msgid "Website: %s"
+msgstr ""
+
+#: woocommerce/content-product.php:60
+msgid "View details"
+msgstr ""
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""

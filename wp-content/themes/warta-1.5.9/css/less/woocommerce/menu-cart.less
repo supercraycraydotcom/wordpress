@@ -1,0 +1,49 @@
+#top-nav {
+        .menu-cart {
+                display : none;
+                float   : right;
+                
+                .cart-contents {
+                        background      : rgba(255, 255, 255, .08);
+                        color           : @dark-text;
+                        padding         : 7.5px;
+                        height          : 30px;
+                        display         : block;
+                        
+                        &:hover {
+                                background      : @primary;
+                                color           : @light-text;
+                        }
+                }
+                
+                .widget_shopping_cart {
+                        margin-bottom: 15px;
+                        
+                        li {
+                                padding: 10px 20px;
+                                margin : 0;
+                                
+                                a:hover {
+                                        background      : none;
+                                        color           : @primary;
+                                }
+                                
+                                img     { display       : none }                                
+                                &.empty { padding-bottom: 0 }
+                        }
+                        
+                        .total,
+                        .buttons { margin: 10px 20px }
+                        
+                        .buttons .button {
+                                padding         : 5px 12px;
+                                margin-top      : 4px;
+                                line-height     : 1.42857143em;
+                                width           : 100%;
+                                
+                                &.checkout,
+                                &:hover { color: @light-text; }
+                        }
+                }
+        }
+}
